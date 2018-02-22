@@ -1,0 +1,217 @@
+.wrapper {
+    width: 900px;
+    height: 1050px;
+    background-color: #996666;
+    background: linear-gradient(black,#996666,black) 
+    
+}
+.box-1 {
+    width: 900px;
+    height: 60px;
+    background-color: #f2f2f2;
+    position: absolute;
+    display: inline-block;
+
+}
+.box-2 {
+    width: 380px;
+    height: 250px;
+    background-color: #f1e8fc;
+    display: inline-block;
+    background: linear-gradient(to right,white,#f1e8fc);
+    margin-top: 100px;
+    margin-left: 20px;
+    vertical-align: bottom;
+    
+}
+.box-3 {
+    width: 455px;
+    height: 250px;
+    background-color: #f1e8fc;
+    display: inline-block;
+    background: linear-gradient(to right,white,#f1e8fc);
+    margin-top: 100px;
+    margin-left: 20px;
+}
+.box-4 {
+    width: 270px;
+    height: 400px;
+    background-color: #f1e8fc;
+    display: inline-block;
+    background: linear-gradient(to right,white,#f1e8fc);
+    margin-top: 20px;
+    margin-left: 20px;
+    margin-right: 10px;
+}
+.box-5 {
+    width: 270px;
+    height: 400px;
+    background-color: #f1e8fc;
+    display: inline-block;
+    background: linear-gradient(to right,white,#f1e8fc);
+    margin-top: 20px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+.box-6 {
+    width: 270px;
+    height: 400px;
+    background-color: #f1e8fc;
+    display: inline-block;
+    background: linear-gradient(to right,white,#f1e8fc);
+    margin-top: 20px;
+    margin-left: 10px;
+    margin-right: 20px;
+}
+.box-7 {
+    width: 270px;
+    height: 225px;
+    background-color: #f1e8fc;
+    display: inline-block;
+    background: linear-gradient(to right,white,#f1e8fc);
+    margin-left: 20px;
+    margin-right: 10px;
+}
+.box-8 {
+    width: 270px;
+    height: 225px;
+    background-color: #f1e8fc;
+    display: inline-block;
+    background: linear-gradient(to right,white,#f1e8fc);
+    margin-left: 10px;
+    margin-right: 10px;
+}
+.box-9 {
+    width: 270px;
+    height: 225px;
+    background-color: #f1e8fc;
+    display: inline-block;
+    background: linear-gradient(to right,white,#f1e8fc);
+    margin-left: 10px;
+    margin-right: 20px;
+}
+.box-10 {
+    width: 900px;
+    height: 75px;
+    background-color: #f2f2f2;
+    display: inline-block;
+    margin-top: 20px;
+}
+.jaynedoe {
+    font-family: "Comic Sans MS", sans-serif;
+    margin-left: 10px;
+    margin-top: -15px;
+    
+}
+.master {
+    font-size: 14px;
+    font-weight: bold;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    margin-left: 520px;
+    margin-top: -70px;
+    position: absolute;
+}
+#janeface {
+    width: 360px;
+    height: 230px;
+    margin-left: 10px;
+    margin-top: 10px;
+    
+}
+.about {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color: darkgrey;
+    background: linear-gradient(lightgray,darkgray,lightgray);
+    display: grid;
+    color: white;
+    font-size: 12px;
+    
+}
+.text1 {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    margin-left: 10px;
+}
+.techtext {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color: darkgrey;
+    background: linear-gradient(lightgray,darkgray,lightgray);
+    display: grid;
+    color: white;
+    font-size: 12px;
+   
+}
+.lasttext {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+    margin-top: 20px;
+   
+}
+a {
+    text-decoration: underline;
+    font-style: italic;
+    color: black;
+}
+#github {
+    width: 18px;
+    display: inline-block;
+    vertical-align: bottom;
+}
+#linkedin  {
+    width: 18px;
+    display: inline-block;
+    vertical-align: bottom;
+}
+#twitter {
+    width: 18px;
+    display: inline-block;
+    vertical-align: bottom;
+}
+#codepen {
+    width: 18px;
+    display: inline-block;
+    vertical-align: bottom;
+}
+#lamode {
+    width: 270px;
+    display: inline-block;
+
+}
+.lamodetext {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: black;
+    margin-left: 10px;
+}
+#family {
+    width: 270px;
+    display: inline-block;
+}
+.familytext {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: black;
+    margin-left: 10px;
+}
+#fiveeleven {
+    width:270px;
+    display: inline-block;
+
+}
+.fivetext {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: black;
+    margin-left: 10px;
+}
+.images {
+    width: 45px;
+    display: inline;
+
+}
+.button {
+    background-color: #4CAF50; 
+    border: none;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    display: inline;
+    font-size: 16px;
+    margin-left: 90px;
+}
